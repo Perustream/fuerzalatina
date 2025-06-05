@@ -1,4 +1,4 @@
-const CACHE_NAME = "Radio Filadelfia FM-v1";
+const CACHE_NAME = "Radio Fuerza Latina-v1";
 const urlsToCache = [
     "/",
     "/index.html",

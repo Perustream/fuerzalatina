@@ -1,8 +1,8 @@
 {
   "id": "https://filadelfia.miradioenvivo.com",
-  "name": "Radio Filadelfia",
-  "short_name": "Radio Filadelfia",
-  "description": "Una Bendicion de Dios",
+  "name": "Radio Fuerza Latina",
+  "short_name": "Radio Fuerza Latina",
+  "description": "Sonido Clarito",
   "icons": [
     {
       "src": "logo/logo.png",
@@ -37,7 +37,7 @@
   "scope": "/",
   "shortcuts": [
     {
-      "name": "Radio Filadelfia",
+      "name": "Radio Fuerza Latina",
       "url": "/",
       "description": "",
       "logo": [
